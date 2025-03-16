@@ -6,5 +6,5 @@ i3 config with polybar
 How to start use:
 
 ```
-git clone https://github.com/dreamwayX64/i3-config.git ~/.config/i3
+git clone https://github.com/moonglaive64/i3-config.git ~/.config/i3
 ```
